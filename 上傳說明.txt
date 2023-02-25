@@ -2,6 +2,11 @@ git add app.py
 git commit -m "add app.py"
 git push 
 
+
+line-bot-sdk==2.4.1
+gunicorn==20.1.0
+flask
+
 訂閱
 https://devcenter.heroku.com/articles/eco-dyno-hours
 
