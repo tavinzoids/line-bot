@@ -1,0 +1,15 @@
+git add app.py
+git commit -m "add app.py"
+git push 
+
+訂閱
+https://devcenter.heroku.com/articles/eco-dyno-hours
+
+Heriku
+
+密碼後面記得要加 !(因為要字母+數字+!)
+
+https://devcenter.heroku.com/articles/getting-started-with-python#set-up
+
+https://dashboard.heroku.com/apps/line-bot-230225/deploy/heroku-git
+
